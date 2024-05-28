@@ -9,7 +9,7 @@ structure and inventory management.
 Business Solution: First did Random Walk &
 Stationary Test for all Spices Prices then did Line
 Chart in Power BI for getting min max and avg
-prices of spices Built Multiple Forecasting Time
+prices of spices. Built Multiple Forecasting Time
 Series Models for 21 Different Spices, for every
 spice multiple models has been tested and chosen
 best model for each Spice.
